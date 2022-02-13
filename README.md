@@ -2,12 +2,14 @@
 ##### - React Basics Practice Project - AddUsers
 <br/>
 
-AddUsers is a react app which is built using basics features of react. 
-<br/>
+AddUsers is a react app built using basics features of react. 
 
-#### Features and Concepts Used:
+<br />
+<img src="./public/app-img.png" />
+
+#### Concepts Used:
 1. Working with states and events
-2. Lifting up the states
+2. Lifting the state up
 3. Rendering List
 4. Rendering conditional contents
 5. Styling react apps
